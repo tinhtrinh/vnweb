@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.banner {
+    background-color: rgb(245, 45, 245); 
+    color: white; margin: 1% 10px; 
+    padding: 10px 20px;
+}
+
+.content {
+    column-count: 3; 
+    column-rule-style: dotted; 
+    background: url(./hinh/co-vietnam.png) no-repeat center; 
+    margin: 0 10px; font-size: 20px;
+}
